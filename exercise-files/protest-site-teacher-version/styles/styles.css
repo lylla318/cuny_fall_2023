@@ -1,0 +1,41 @@
+
+h1 {
+	color: orange;
+    font-family: arial;
+    margin: 50px;
+}
+
+h2 {
+	color: orange;
+    font-family: arial;
+    margin: 30px;
+}
+
+
+h1, h2, h4, p {
+	margin: 20px;
+}
+
+.protest-item {
+	padding: 20px;
+	/*border: solid 1px black;*/
+	overflow: auto;
+}
+
+.information {
+	/*background-color: yellow;*/
+	float: left;
+	width: 400px;
+	
+}
+
+.protest-image {
+	/*background-color: orange;*/
+	float: right;
+	width: 400px;
+	
+}
+
+
+
+
